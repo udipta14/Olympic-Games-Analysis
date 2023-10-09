@@ -1,7 +1,8 @@
 # Olympic-Games-Analysis
 The aim of this analysis was to extract valuable insights and answer a variety of questions related to the history, participation, and performance of nations and athletes in the Olympic Games.  This project demonstrates my proficiency in Data Analysis, SQL Querying using advance functions like CTE, Joins, CASE, Pivot.
 <br>
-<b> Here is a summary of the key findings and analyses conducted: <b>
+
+<b><u> Here is a summary of the key findings and analyses conducted: <u><b>
 <br>
 
 1. Total Number of Olympic Games: I determined the total number of Olympic Games held throughout history.
